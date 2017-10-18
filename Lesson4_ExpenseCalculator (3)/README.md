@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(10,11,2017)
 
 ### Student Name:  
-(First and Last Name)
+(Sydney Vincent)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Create an expense calculator where you are able to plug in numbers and get back accurate results )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://smv13.github.io/lesson4/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to make it so you can add inputs
+2. How to actually display those calculations you created
+3. How to remove the results once you are done and want to create a new calculations
